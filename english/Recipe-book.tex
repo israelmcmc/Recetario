@@ -1,0 +1,46 @@
+\documentclass[twoside,12pt]{article}
+
+%Kindle touch setup
+\ifx\kindle y
+\usepackage[papersize={3.3in,4.4in},hmargin=0.1in,vmargin={0.1in,0.1in}]{geometry}
+\fi
+
+%Phone setup
+\ifx\phone y
+\usepackage[papersize={3.24in,5.76in},hmargin=0.1in,vmargin={0.1in,0.1in}]{geometry}
+\fi
+
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[utf8]{inputenc}
+\usepackage{xfrac}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\newcommand{\Sim}{$\sim$}
+
+\setlength\parindent{0pt}
+\date{}
+\author{Israel}
+
+\title{Recipe book}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\newpage
+\section{Postres}
+
+\include{recipes/flan}
+
+\end{document}
+
