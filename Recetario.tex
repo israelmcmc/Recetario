@@ -23,9 +23,15 @@
     linkcolor=black,
     urlcolor=black
 }
+\usepackage{amsmath}
 
 \newcommand{\Sim}{$\sim$}
 \renewcommand{\deg}{$^{\circ}$}
+
+\usepackage{siunitx}
+\sisetup{quotient-mode = fraction}
+\sisetup{fraction-function=\sfrac}
+\sisetup{range-phrase = -}
 
 \setlength\parindent{0pt}
 \date{}
@@ -52,6 +58,14 @@
 \include{recetas/chiles-rellenos}
 \include{recetas/sopa-de-tortilla/sopa-de-tortilla}
 \include{recetas/asado-de-boda}
+\include{recetas/pozole-verde}
+\include{recetas/tacos-de-canasta}
+\include{recetas/tacos-al-vapor}
+\include{recetas/carnitas}
+
+\section{Comida india}
+\include{recetas/palak-paneer}
+\include{recetas/Aloo-gobi/Aloo-gobi}
 
 \section{Italianas}
 \include{recetas/pizza-romano}
@@ -79,11 +93,12 @@
 
 \section{Pan}
 \include{recetas/pan-de-caja}
-\include{recetas/pan-salado}
+\include{recetas/baguette-poolish}
 
 \section{Quesos}
 \include{recetas/queso-panela}
 \include{recetas/queso-ricotta}
+\include{recetas/paneer}
 
 \section{Postres}
 \include{recetas/yule-log}
@@ -105,6 +120,11 @@
 \include{recetas/chocolate-mousse-cake}
 \include{recetas/besos-de-novia}
 \include{recetas/arroz-con-leche}
+\include{recetas/hojaldre/hojaldre}
+\include{recetas/croissants/masa}
+\include{recetas/puerquitos-de-piloncillo}
+\include{recetas/trenza-nuez}
+\include{recetas/Helado-de-tequila}
 
 \section{Salsas}
 \include{recetas/salsa-roja-taquera}
@@ -118,6 +138,7 @@
 \section{Sopas}
 \include{recetas/caldo-tlalpeno}
 \include{recetas/sopa-hongo-Luis}
+\include{recetas/sopa-de-tomate}
 
 \section{Vegetariano}
 \include{recetas/bisteck-soya}
