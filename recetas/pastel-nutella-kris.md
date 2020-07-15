@@ -32,6 +32,7 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 
 ### Otros
 - Nuez picada
+- Ferreros
 
 ## Instrucciones
 
@@ -52,3 +53,10 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 5. Agregar y batir la leche
 6. Dividir en tres moldes redondos. Estos deben de tener matenquilla en el fondo y una capa de papel encerado.
 7. Hornear a 350 F (180 C) por 23-26min, hasta que pase la prueba del palillo.
+
+### Armado
+1. Apilar pan y relleno con un cinturon de plastico.
+2. Meter al refri un rato
+3. Forrar con betun
+4. Empanizar con nuez molida
+5. Poner un Ferreros arriba.
