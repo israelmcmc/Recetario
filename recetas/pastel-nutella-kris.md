@@ -1,20 +1,20 @@
-# Pastel "A Kris le gusta la nutella"
+# Pastel "A Kris le gusta la Nutella"
 
 Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-fudge/), [Nutella frosting - Sally's baking addiction](https://sallysbakingaddiction.com/nutella-frosting/) y [Vanilla Cake - Sally's](https://sallysbakingaddiction.com/vanilla-cake/)
 
 ## Ingredientes
 
 ### Relleno
-- 2 latas de leche condensada (14 oz por lata)
-- 4 cucharadas de nutella
+- 2 latas de leche condensada (latas de 14 oz)
+- 4 cucharadas de Nutella
 - 28 gr de mantequilla sin sal (2 cucharadas)
 
 ### Betun
 - 225 gr de mantequilla
 - 4 tazas (460g) de azúcar glass
 - 3/4 de taza (225g) de Nutella
-- 1/3 de taza (80ml) de heavy cream
-- 1 cucharadita pure vanilla extract
+- 1/3 de taza (80ml) de crema para batir (heavy cream)
+- 1 cucharadita de vainilla
 - 1 pizca de sal
 
 ### Pan
@@ -28,7 +28,7 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 - 2 claras de huevo
 - 2 cucharaditas de vainilla
 - 1/2 cucharadita de extracto de almendra
-- 1 1/2 tazas (360 ml) de buttermilk
+- 1 1/2 tazas (360 ml) de buttermilk (suero de mantequilla o mazada)
 
 ### Otros
 - Nuez picada
