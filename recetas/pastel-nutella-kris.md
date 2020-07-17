@@ -6,7 +6,7 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 
 ### Relleno
 - 2 latas de leche condensada (latas de 14 oz)
-- 4 cucharadas de Nutella
+- 120 gr de Nutella
 - 28 gr de mantequilla sin sal (2 cucharadas)
 
 ### Betun
@@ -19,7 +19,7 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 
 ### Pan
 - 420 gr (3 2/3 de taza) de harina
-- 1 cucharadita de sal
+- 1/4 de cucharadita de sal
 - 1 cucharadia de polvo par hornear
 - 3/4 de cucharadita de bicarbonato
 - 345 gr (1 1/2 taza) de mantequilla (+ para encerar)
@@ -31,7 +31,7 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 - 1 1/2 tazas (360 ml) de buttermilk (suero de mantequilla o mazada)
 
 ### Otros
-- Nuez picada
+- Ojuelas de almendra.
 - Ferreros
 
 ## Instrucciones
@@ -39,11 +39,13 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 ### Relleno
 
 1. Calentar a fuego medio-bajo hasta que hierva
-2. Sin dejar de menear, hervir hasta que este denso.
+2. Sin dejar de menear y raspando el fondo, hervir hasta que este espeso como un cajeta (~10 min). Nota: Al enfriarse se va a espesar considerablemente más, y si te pasas queda duro como un paleta.
 
 ### Betun
-1. Acrema la mantequilla
-2. Batir el resto poco a poco
+1. Acremar la mantequilla
+2. Mezclar con la Nutella
+3. Agregar la vainilla, crema y sal.
+4. Incorporar y batir el azúcar de a poco a la vez. 
 
 ### Pan
 1. Acremar la mantequilla
@@ -52,11 +54,11 @@ Basado en [Nutella fudge - Pies and tacos](https://www.piesandtacos.com/nutella-
 4. Mezclar los ingredientes secos
 5. Agregar y batir la leche
 6. Dividir en tres moldes redondos. Estos deben de tener matenquilla en el fondo y una capa de papel encerado.
-7. Hornear a 350 F (180 C) por 23-26min, hasta que pase la prueba del palillo.
+7. Hornear a 350 F (180 C) por 20-25min, hasta que pase la prueba del palillo.
 
 ### Armado
 1. Apilar pan y relleno con un cinturon de plastico.
 2. Meter al refri un rato
 3. Forrar con betun
-4. Empanizar con nuez molida
-5. Poner un Ferreros arriba.
+4. Empanizar con la almendra.
+5. Poner unos Ferreros arriba.
